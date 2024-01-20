@@ -32,3 +32,5 @@ for (i = 0; i < words.length; i++) {
   // Use technical vocabulary and explain each part to demonstrate your understanding! 
   // Share the link to your video in your small group channel.
 
+https://www.loom.com/share/d3cde2d3ebef4862b09c694e81740f03
+
